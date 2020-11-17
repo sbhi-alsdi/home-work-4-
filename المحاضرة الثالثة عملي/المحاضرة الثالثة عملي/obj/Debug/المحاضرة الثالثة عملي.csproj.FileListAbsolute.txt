@@ -1,0 +1,30 @@
+C:\Users\LENOVO\Desktop\المحاضرة الثالثة عملي\المحاضرة الثالثة عملي\bin\المحاضرة الثالثة عملي.dll
+C:\Users\LENOVO\Desktop\المحاضرة الثالثة عملي\المحاضرة الثالثة عملي\bin\المحاضرة الثالثة عملي.pdb
+C:\Users\LENOVO\Desktop\المحاضرة الثالثة عملي\المحاضرة الثالثة عملي\bin\Antlr3.Runtime.dll
+C:\Users\LENOVO\Desktop\المحاضرة الثالثة عملي\المحاضرة الثالثة عملي\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\LENOVO\Desktop\المحاضرة الثالثة عملي\المحاضرة الثالثة عملي\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\LENOVO\Desktop\المحاضرة الثالثة عملي\المحاضرة الثالثة عملي\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\LENOVO\Desktop\المحاضرة الثالثة عملي\المحاضرة الثالثة عملي\bin\DotNetOpenAuth.Core.dll
+C:\Users\LENOVO\Desktop\المحاضرة الثالثة عملي\المحاضرة الثالثة عملي\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\LENOVO\Desktop\المحاضرة الثالثة عملي\المحاضرة الثالثة عملي\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\LENOVO\Desktop\المحاضرة الثالثة عملي\المحاضرة الثالثة عملي\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\LENOVO\Desktop\المحاضرة الثالثة عملي\المحاضرة الثالثة عملي\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\LENOVO\Desktop\المحاضرة الثالثة عملي\المحاضرة الثالثة عملي\bin\EntityFramework.dll
+C:\Users\LENOVO\Desktop\المحاضرة الثالثة عملي\المحاضرة الثالثة عملي\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\LENOVO\Desktop\المحاضرة الثالثة عملي\المحاضرة الثالثة عملي\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\LENOVO\Desktop\المحاضرة الثالثة عملي\المحاضرة الثالثة عملي\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\LENOVO\Desktop\المحاضرة الثالثة عملي\المحاضرة الثالثة عملي\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\LENOVO\Desktop\المحاضرة الثالثة عملي\المحاضرة الثالثة عملي\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\LENOVO\Desktop\المحاضرة الثالثة عملي\المحاضرة الثالثة عملي\bin\System.Web.Optimization.dll
+C:\Users\LENOVO\Desktop\المحاضرة الثالثة عملي\المحاضرة الثالثة عملي\bin\System.Web.Providers.dll
+C:\Users\LENOVO\Desktop\المحاضرة الثالثة عملي\المحاضرة الثالثة عملي\bin\WebGrease.dll
+C:\Users\LENOVO\Desktop\المحاضرة الثالثة عملي\المحاضرة الثالثة عملي\bin\EntityFramework.xml
+C:\Users\LENOVO\Desktop\المحاضرة الثالثة عملي\المحاضرة الثالثة عملي\bin\DotNetOpenAuth.Core.xml
+C:\Users\LENOVO\Desktop\المحاضرة الثالثة عملي\المحاضرة الثالثة عملي\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\LENOVO\Desktop\المحاضرة الثالثة عملي\المحاضرة الثالثة عملي\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\LENOVO\Desktop\المحاضرة الثالثة عملي\المحاضرة الثالثة عملي\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\LENOVO\Desktop\المحاضرة الثالثة عملي\المحاضرة الثالثة عملي\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\LENOVO\Desktop\المحاضرة الثالثة عملي\المحاضرة الثالثة عملي\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\LENOVO\Desktop\المحاضرة الثالثة عملي\المحاضرة الثالثة عملي\obj\Debug\المحاضرة الثالثة عملي.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Desktop\المحاضرة الثالثة عملي\المحاضرة الثالثة عملي\obj\Debug\المحاضرة الثالثة عملي.dll
+C:\Users\LENOVO\Desktop\المحاضرة الثالثة عملي\المحاضرة الثالثة عملي\obj\Debug\المحاضرة الثالثة عملي.pdb
